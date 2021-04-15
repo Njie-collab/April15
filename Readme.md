@@ -1,5 +1,5 @@
 # header
-## sub-header
+## subhead
 * list
 * of
 * bullet
